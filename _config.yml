@@ -1,4 +1,11 @@
-theme: jekyll-theme-merlot
-# title: BULLETINS
-# description: a place to host TPE Toastmasters Club's bulletins
+title: Bulletins
+description: Taipei Toastmasters Club's bulletins
 show_downloads: false
+google_analytics:
+theme: jekyll-theme-merlot
+defaults:
+  - scope:
+      path: "files"
+    values:
+      file: true
+
