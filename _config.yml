@@ -1,8 +1,11 @@
 title: Bulletins
 description: Taipei Toastmasters Club's bulletins
+repo_name: bulletins
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-merlot
+url: https://taipei-toastmasters-club.github.io
+baseurl: /bulletins
 defaults:
   - scope:
       path: "files"

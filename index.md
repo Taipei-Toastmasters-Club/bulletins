@@ -3,15 +3,14 @@ layout: default
 ---
 
 This is a place to host bulletins from Taipei Toastmasters Club. Feel free
-to use and contact us if you have any question.
-
+to open them and contact us if you have any question.
 
 
 ### List
 
 {% assign files = site.static_files | where: "file", true %}
 {% for myfile in files reversed %}
-* [{{ myfile.basename }}](/bulletins{{ myfile.path  }})
+* [{{ myfile.basename }}](/{{ site.repo_name  }}{{ myfile.path  }})
 {% endfor %}
 
 
