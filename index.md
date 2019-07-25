@@ -11,7 +11,7 @@ to use and contact us if you have any question.
 
 {% assign files = site.static_files | where: "file", true %}
 {% for myfile in files reversed %}
-* [{{ myfile.basename }}]({{ myfile.path  }})
+* [{{ myfile.basename }}](/bulletins{{ myfile.path  }})
 {% endfor %}
 
 
