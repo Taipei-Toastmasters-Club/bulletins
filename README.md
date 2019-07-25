@@ -1,7 +1,5 @@
 ## Taipei Toastmasters Club Bulletins
 
-### Bulletins
-
 * [2019/07/23](./docs/Bulletin_2019_07_23.pdf)
 
 
