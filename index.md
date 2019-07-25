@@ -10,7 +10,7 @@ to use and contact us if you have any question.
 ### List
 
 {% assign files = site.static_files | where: "file", true %}
-{% for myfile in files %}
+{% for myfile in files reversed %}
 * [{{ myfile.basename }}]({{ myfile.path  }})
 {% endfor %}
 
