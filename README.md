@@ -4,15 +4,13 @@ This is a place to host bulletins from Taipei Toastmasters Club.
 
 ## How to Use
 
-As an officer of the Taipei Toastmasters Club, if you want to upload a new bulletin, just enter `files` folder, click
-`upload` button then upload your file.
+WARNING: `ONLY TAIPEI TOASTMASTERS CLUB's OFFICER HAVE THE PERMISSION TO UPLOAD FILES`
 
-After uploading the file, the index page would show the lattest file on the
-list automatically.
-list
+If you want to upload a new bulletin file, just enter `files` folder, click the `upload` button then upload your file with date format (`YYYYMMDD`)
 
-Note that the name of the file **cannot have special characters** like `!`, `@`, `#`,
-`(`, `)`.
+After uploading the file, the index page would show the lattest file on the list automatically.
+
+Note that the name of the file **cannot have special characters** like `!`, `@`, `#`, `(`, `)`.
 
 
 ## Customizing
