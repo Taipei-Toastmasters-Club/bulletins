@@ -4,7 +4,7 @@ This is a place to host bulletins from Taipei Toastmasters Club.
 
 ## How to Use
 
-WARNING: `ONLY TAIPEI TOASTMASTERS CLUB's OFFICER HAVE THE PERMISSION TO UPLOAD FILES`
+WARNING: `ONLY TAIPEI TOASTMASTERS CLUB's OFFICERS HAVE THE PERMISSION TO UPLOAD FILES`
 
 If you want to upload a new bulletin file, just enter `files` folder, click the `upload` button then upload your file with date format (`YYYYMMDD`)
 
